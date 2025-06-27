@@ -27,11 +27,10 @@ $ neo -V
 
 ## 提供模版
 
-- devops-iframe：基于 `@neo/bk-magic-vue` 和 `Vue2.x` 的项目框架，适用于 `DevOPs` 微前端架构下的 `iframe` 模式。
-- devops-amd：基于 `@neo/bk-magic-vue` 和 `Vue2.x` 的项目框架，适用于 `DevOPs` 微前端架构下的 `AMD` 模式。
-- devops-plugin-card：支持 `devops` 卡片插件的项目模板
+- uni-app-iview：基于 `uni-app` 和 `iView-ui` 的项目框架，适用于uni-app生态下的产品开发(小程序、H5、App等)。
+- node-express-5.x：基于 `Express5`的后端Restful风格接口开发等项目框架，适用于各种Nodejs接口开发项目。
 
 ## 查看帮助
 ```bash
-$ devops -h
+$ neo -h
 ```
