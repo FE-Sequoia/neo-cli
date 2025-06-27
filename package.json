@@ -26,5 +26,9 @@
     "inquirer": "^8.2.4",
     "ora": "^5.4.1",
     "validate-npm-package-name": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FE-Sequoia/neo-cli"
   }
 }
