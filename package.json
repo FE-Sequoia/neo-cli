@@ -1,0 +1,25 @@
+{
+  "name": "@neo/cli",
+  "version": "1.0.6",
+  "description": "Neo自用项目脚手架",
+  "main": "./bin/index.js",
+  "bin": {
+    "neo": "./bin/index.js"
+  },
+  "keywords": [
+    "@neo/cli"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^9.3.0",
+    "cross-spawn": "^7.0.3",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.2",
+    "fs-extra": "^10.1.0",
+    "inquirer": "^8.2.4",
+    "ora": "^5.4.1",
+    "validate-npm-package-name": "^4.0.0"
+  }
+}
