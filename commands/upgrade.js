@@ -9,7 +9,7 @@ const upgrade = require('../lib/upgrade');
 module.exports = (program) => {
   program
     .command('upgrade')
-    .description('Update @neo/cli')
+    .description('Update @neo-aslan/cli')
     .action(() => {
       upgrade();
     });
