@@ -9,7 +9,7 @@
   "scripts": {
     "alpha": "npm version prerelease --preid=alpha && npm publish --tag alpha",
     "beta": "npm version prerelease --preid=beta && npm publish --tag beta",
-    "publish": "npm version patch && npm publish --access public"
+    "publish": "npm publish --access public"
   },
   "keywords": [
     "@neo/cli"
