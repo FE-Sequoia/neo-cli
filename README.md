@@ -3,11 +3,11 @@
 
 ## 安装
 ```bash
-$ npm install -g @neo/cli
+$ npm install -g @neo-aslan/cli
 
 # or
 
-$ yarn global add @neo/cli
+$ yarn global add @neo-aslan/cli
 ```
 
 ## 使用

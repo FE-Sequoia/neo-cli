@@ -1,7 +1,7 @@
 /**
  * commands/list.js
  * eg: neo upgrade
- * 升级脚手架 @neo/cli
+ * 升级脚手架 @neo-aslan/cli
  * 2022/07/18
  * by king
  */
